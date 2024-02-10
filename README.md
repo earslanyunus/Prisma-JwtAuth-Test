@@ -1,3 +1,6 @@
+This project created for testing Prisma and Jwt Auth system so the code may contain some bugs or vulnerabilities.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
